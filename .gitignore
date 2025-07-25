@@ -113,6 +113,9 @@ UpgradeLog*.htm
 App_Data/*.mdf
 App_Data/*.ldf
 
+# Temporary directory
+tmp/
+
 # =========================
 # Windows detritus
 # =========================
